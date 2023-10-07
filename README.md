@@ -59,8 +59,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/OyuNet/OyuNet/output/snake.svg" alt="Snake animation" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=oyunet)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
